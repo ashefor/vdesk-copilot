@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "number": "+2341234567890",
+    "label": "Main Support Line",
+    "type": "toll-free",
+    "routing": "IVR Flow 1",
+    "calls_30d": 2450,
+    "status": "active"
+  },
+  {
+    "id": "2",
+    "number": "+2341234567891",
+    "label": "Sales Line",
+    "type": "toll-free",
+    "routing": "Sales Queue",
+    "calls_30d": 1820,
+    "status": "active"
+  },
+  {
+    "id": "3",
+    "number": "+2341234567892",
+    "label": "VIP Support",
+    "type": "toll-free",
+    "routing": "VIP Agent Group",
+    "calls_30d": 450,
+    "status": "active"
+  }
+]

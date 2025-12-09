@@ -35,7 +35,7 @@
     --sidebar-border: oklch(0.21 0.006 285.885 / 0.125);
     --sidebar-ring: oklch(0.646 0.222 41.116);
     --radius: 0.625rem;
-    --font-sans: Onest;
+    --font-sans: 'Onest', system-ui, -apple-system, sans-serif;
     --primary-light: oklch(0.901 0.076 70.697);
     --primary-dark: oklch(0.837 0.128 66.29);
     --primary-ring: oklch(0.75 0.183 55.934);
@@ -68,13 +68,13 @@
   --color-chart-4: var(--chart-4);
   --color-chart-5: var(--chart-5);
   --radius: var(--radius);
-  --font-sans: var(--font-sans);
+  --font-family-sans: var(--font-sans);
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: var(--font-sans), system-ui, -apple-system, sans-serif;
+  font-family: var(--font-sans);
 }
 
 @layer base {
