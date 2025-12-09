@@ -13,6 +13,7 @@ import {
   DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu"
+import { cn } from "@/lib/utils"
 
 interface AppHeaderProps {
   title: string
@@ -162,8 +163,4 @@ export function AppHeader({ title, breadcrumbs }: AppHeaderProps) {
       </div>
     </header>
   )
-}
-
-function cn(...inputs: any[]) {
-  return inputs.filter(Boolean).join(" ")
 }
