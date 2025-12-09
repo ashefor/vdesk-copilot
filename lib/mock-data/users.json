@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "name": "Chidi Okonkwo",
+    "email": "chidi@company.com",
+    "role": "Admin",
+    "avatar": "CO",
+    "status": "available",
+    "extension": "101"
+  },
+  {
+    "id": "2",
+    "name": "Amina Mohammed",
+    "email": "amina@company.com",
+    "role": "Agent",
+    "avatar": "AM",
+    "status": "available",
+    "extension": "102"
+  },
+  {
+    "id": "3",
+    "name": "Tunde Adebayo",
+    "email": "tunde@company.com",
+    "role": "Agent",
+    "avatar": "TA",
+    "status": "busy",
+    "extension": "103"
+  },
+  {
+    "id": "4",
+    "name": "Ngozi Eze",
+    "email": "ngozi@company.com",
+    "role": "Supervisor",
+    "avatar": "NE",
+    "status": "available",
+    "extension": "104"
+  },
+  {
+    "id": "5",
+    "name": "Ibrahim Yusuf",
+    "email": "ibrahim@company.com",
+    "role": "Agent",
+    "avatar": "IY",
+    "status": "offline",
+    "extension": "105"
+  },
+  {
+    "id": "6",
+    "name": "Funke Okafor",
+    "email": "funke@company.com",
+    "role": "Agent",
+    "avatar": "FO",
+    "status": "available",
+    "extension": "106"
+  },
+  {
+    "id": "7",
+    "name": "Musa Bello",
+    "email": "musa@company.com",
+    "role": "Agent",
+    "avatar": "MB",
+    "status": "busy",
+    "extension": "107"
+  },
+  {
+    "id": "8",
+    "name": "Ada Nwosu",
+    "email": "ada@company.com",
+    "role": "Agent",
+    "avatar": "AN",
+    "status": "available",
+    "extension": "108"
+  },
+  {
+    "id": "9",
+    "name": "Yemi Oladipo",
+    "email": "yemi@company.com",
+    "role": "Supervisor",
+    "avatar": "YO",
+    "status": "available",
+    "extension": "109"
+  },
+  {
+    "id": "10",
+    "name": "Hauwa Garba",
+    "email": "hauwa@company.com",
+    "role": "Agent",
+    "avatar": "HG",
+    "status": "offline",
+    "extension": "110"
+  }
+]
