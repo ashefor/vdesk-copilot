@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "name": "General Support",
+    "agents": 8,
+    "max_wait_time": 300,
+    "strategy": "round_robin",
+    "calls_today": 145
+  },
+  {
+    "id": "2",
+    "name": "Technical Support",
+    "agents": 5,
+    "max_wait_time": 180,
+    "strategy": "longest_idle",
+    "calls_today": 89
+  },
+  {
+    "id": "3",
+    "name": "Sales",
+    "agents": 6,
+    "max_wait_time": 240,
+    "strategy": "simultaneous",
+    "calls_today": 123
+  },
+  {
+    "id": "4",
+    "name": "VIP Support",
+    "agents": 3,
+    "max_wait_time": 60,
+    "strategy": "priority",
+    "calls_today": 34
+  }
+]

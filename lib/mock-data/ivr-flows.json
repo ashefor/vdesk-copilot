@@ -1,0 +1,39 @@
+[
+  {
+    "id": "1",
+    "name": "Main Support Flow",
+    "description": "Primary customer support IVR",
+    "active": true,
+    "nodes": [
+      {
+        "id": "start",
+        "type": "start",
+        "label": "Start"
+      },
+      {
+        "id": "greeting",
+        "type": "play_message",
+        "label": "Greeting Message"
+      },
+      {
+        "id": "menu",
+        "type": "menu",
+        "label": "Main Menu"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Sales Flow",
+    "description": "Sales inquiry routing",
+    "active": true,
+    "nodes": []
+  },
+  {
+    "id": "3",
+    "name": "After Hours",
+    "description": "Outside business hours messaging",
+    "active": false,
+    "nodes": []
+  }
+]

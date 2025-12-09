@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Tech Solutions Ltd",
+    "industry": "Retail",
+    "employees": 208,
+    "contacts": 5,
+    "total_calls": 113
+  },
+  {
+    "id": "2",
+    "name": "Global Traders Nigeria",
+    "industry": "Education",
+    "employees": 273,
+    "contacts": 5,
+    "total_calls": 81
+  },
+  {
+    "id": "3",
+    "name": "Apex Consulting",
+    "industry": "Retail",
+    "employees": 365,
+    "contacts": 7,
+    "total_calls": 126
+  },
+  {
+    "id": "4",
+    "name": "Prime Logistics",
+    "industry": "Finance",
+    "employees": 229,
+    "contacts": 5,
+    "total_calls": 124
+  },
+  {
+    "id": "5",
+    "name": "Digital Innovations Hub",
+    "industry": "Technology",
+    "employees": 473,
+    "contacts": 3,
+    "total_calls": 70
+  },
+  {
+    "id": "6",
+    "name": "Mega Corp Industries",
+    "industry": "Healthcare",
+    "employees": 120,
+    "contacts": 10,
+    "total_calls": 45
+  },
+  {
+    "id": "7",
+    "name": "Swift Services",
+    "industry": "Finance",
+    "employees": 109,
+    "contacts": 3,
+    "total_calls": 183
+  },
+  {
+    "id": "8",
+    "name": "Elite Business Partners",
+    "industry": "Technology",
+    "employees": 441,
+    "contacts": 10,
+    "total_calls": 150
+  },
+  {
+    "id": "9",
+    "name": "Vanguard Enterprises",
+    "industry": "Finance",
+    "employees": 465,
+    "contacts": 9,
+    "total_calls": 56
+  },
+  {
+    "id": "10",
+    "name": "Future Tech Nigeria",
+    "industry": "Healthcare",
+    "employees": 201,
+    "contacts": 3,
+    "total_calls": 125
+  }
+]
